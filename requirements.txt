@@ -4,7 +4,7 @@ cssselect==1.0.1
 gevent==1.2.2
 greenlet==0.4.12
 idna==2.5
-lxml==3.8.0
+lxml==4.6.3
 psycogreen==1.0
 psycopg2==2.7.3
 pyquery==1.2.17
